@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yu"
+  given-names: "Wenjun"
+  orcid: "https://orcid.org/0000-0002-5273-719X"
+title: "ML_Project"
+date-released: 2023-12-02
+url: "https://github.com/Vangelice/ML_Project"
